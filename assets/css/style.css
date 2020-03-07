@@ -1,9 +1,9 @@
 body {
-    background-color: white;
+    background-color: rgb(255, 0, 0);
     font-style: italic;
     text-align: center;
 }
 
 p {
-    color: red;
+    color: rgb(217, 255, 0);
 }
